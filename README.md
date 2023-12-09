@@ -7,7 +7,7 @@ Merupakan kumpulan Source Code untuk Program Konversi Sistem Bilangan. Dalam Apl
 
 Untuk bagian ini, hanya menggunakan Berbasis Teks saja (Text-based). Misalnya, dalam Bahasa C, C++, C#, Java, Python, dll.
 
-Contoh Output :
+Contoh Output (Tampa CSS) :
 
 > Konversi Sistem Bilangan dari Desimal\
 > Number Base System Converter from Decimal\
