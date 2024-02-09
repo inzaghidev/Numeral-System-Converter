@@ -7,7 +7,7 @@ Merupakan kumpulan Source Code untuk Program Konversi Sistem Bilangan. Dalam Apl
 
 Untuk bagian ini, hanya menggunakan Berbasis Teks saja (Text-based). Misalnya, dalam Bahasa C, C++, C#, Java, Python, dll.
 
-Contoh Output (Tampa CSS) :
+Contoh Output :
 
 > Konversi Sistem Bilangan dari Desimal\
 > Number Base System Converter from Decimal\
@@ -20,7 +20,7 @@ Contoh Output (Tampa CSS) :
 
 Untuk bagian ini, menggunakan Aplikasi berbasis Web (Web-based) seperti HTML, CSS, JavaScript, dan PHP.
 
-Contoh Output :
+Contoh Output (Tampa CSS) :
 
 ![Konversi Bilangan dengan HTML menggunakan JavaScript dan PHP](./images/konversi-bilangan-dengan-html-js-php.jpg)
 
